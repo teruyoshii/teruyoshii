@@ -1,5 +1,6 @@
 # Hi 👋  I’m teruyoshl !
  I usually use "てるよし" or "Teruyoshi" as my nickname
+ 
  I’m currently learning C#, C++, python, p5.js, unity, video editing, drowing, and etc...
 
 <!---
