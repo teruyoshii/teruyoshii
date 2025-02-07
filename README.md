@@ -1,9 +1,5 @@
 ## 👋 Hi I’m teruyoshl !
 ### I usually use "てるよし" or "Teruyoshi" as my nickname
-
-My real name is Teruki Koizumi (小泉 輝季)
-
-I am a freshmen of **University of Electro-Communication (電気通信大学)**
  
 ### I’m currently learning C#, C++, python, p5.js, unity, video editing, drowing, and etc...
 
